@@ -18,3 +18,17 @@ apresentacao_vue/
 │   │       └── script.js
 │   └── (other assets if needed)
 └── README.md
+
+
+│   ├── index.html
+│   ├── favicon.ico
+│   └── images/
+│       └── (all your images)
+├── src/
+│   ├── assets/
+│   │   ├── css/
+│   │   │   └── style.css
+│   │   └── js/
+│   │       └── script.js
+│   └── (other assets if needed)
+└── README.md
